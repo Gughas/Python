@@ -1,0 +1,24 @@
+{
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "python.defaultInterpreterPath": "python",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.6,
+  "editor.rulers": [150, 200],
+  "editor.fontLigatures": true,
+  "editor.scrollbar.horizontal": "hidden",
+  "tabnine.experimentalAutoImports": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "explorer.compactFolders": false,
+  "editor.formatOnSave": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.runInTerminal": true,
+  "workbench.settings.applyToAllProfiles": [],
+  "code-runner.executorMap": {
+    "python": "cls ; python -u"
+  },
+  "code-runner.ignoreSelection": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.wordWrap": "on"
+}
